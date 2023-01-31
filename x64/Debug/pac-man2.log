@@ -1,0 +1,5 @@
+﻿  pac-man2.cpp
+c:\c++\pac-man2\pac-man2.cpp(46): warning C4305: +=: усечение из "double" в "float"
+c:\c++\pac-man2\pac-man2.cpp(194): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\c++\pac-man2\pac-man2.cpp(263): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  pac-man2.vcxproj -> C:\c++\pac-man2\x64\Debug\pac-man2.exe
